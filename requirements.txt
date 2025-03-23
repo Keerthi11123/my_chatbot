@@ -1,0 +1,27 @@
+Requirements for Agentic AI Chatbot
+
+Transformers library for NLP models
+
+transformers>=4.30.0
+
+PyTorch for deep learning model execution
+
+torch>=2.0.0
+
+Gradio for building a web-based chatbot UI
+
+gradio>=3.50.0
+
+Essential scientific computing libraries
+
+numpy>=1.23.0
+scipy>=1.10.0
+
+SentencePiece for tokenization support
+
+sentencepiece>=0.1.99
+
+Requests for handling HTTP requests
+
+requests>=2.28.0
+
